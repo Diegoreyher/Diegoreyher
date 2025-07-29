@@ -7,37 +7,24 @@
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
-<h2>Acerca de Mi </h2>
-<img 
-  src="https://cdn.dribbble.com/userupload/41950269/file/original-1904aab6c88bcdbbbc1f916da9d70b71.gif" 
-  alt="GIF decorativo inicio" 
-  style="width:150px; filter: grayscale(100%); margin-bottom: 10px;"
-/>
+<h2 align="center">Acerca de mí</h2>
 
-<p>
-  Aquí va tu texto sobre ti, tu experiencia, habilidades y lo que quieras contar.
+<p align="center">
+  <b>Ingeniero Biomédico</b> egresado del <a href="https://www.ipn.mx/" target="_blank"><b>Instituto Politécnico Nacional (IPN)</b></a>, con una <b>certificación en Ciencia de Datos</b> y sólida experiencia en el análisis e interpretación de información para la toma de decisiones. <br><br>
+  Apasionado por la <b>automatización</b> de procesos, la <b>detección de patrones</b> y la <b>optimización</b> de recursos mediante el uso de herramientas como Python, SQL, Excel, Power BI y metodologías de análisis de datos. <br><br>
+  Siempre en búsqueda de nuevas formas de mejorar la eficiencia operativa y transformar datos en soluciones accionables.
+  <br><br>
+  <b>Pensamiento:</b> "Los datos son valiosos solo cuando se transforman en conocimiento."
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
 </p>
-
-<!-- GIF al final -->
-<img 
-  src="https://cdn.dribbble.com/userupload/41950269/file/original-1904aab6c88bcdbbbc1f916da9d70b71.gif" 
-  alt="GIF decorativo final" 
-  style="width:150px; filter: grayscale(100%); margin-top: 10px;"
-/>
-
-
-
-
-
-
+<br><br>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=4000&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Scientist+👨‍💻;Data+Analyst+📊;Machine+Learning+Enthusiast+🤖;Web+Scraping+Expert+🕸️;Automation+Specialist+⚙️;Business+Intelligence+📈;Python+Developer+🐍;Process+Optimization+🔧;Data+Driven+Decision+Maker+💡;From+MX+🇲🇽" alt="Typing SVG" />
   </a>
 </p>
-🎓 INGENIERO BIOMÉDICO | DATA SCIENTIST
 
-🎥 Analista de Marketplace en <img width="225" height="225" alt="Untitled" src="https://github.com/user-attachments/assets/f521fb5c-90ff-4b40-a0d3-3009b70890e7" /> gracias a mucho estudio 😵 y experiencia
+🎥 Analista de Marketplace en <img width="100" height="100" alt="Untitled" src="https://github.com/user-attachments/assets/f521fb5c-90ff-4b40-a0d3-3009b70890e7" /> gracias a mucho estudio 😵 y experiencia
 
 💻 Unos cuántos años de experiencia en el proceso de programación con Python
 
