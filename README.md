@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋  soy Diego  ✨ </h1> 
 
-<p align="left">
+<p align="center">
 <a href="www.linkedin.com/in/diego-reynoso-485617175" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "mailto:diegoreyher@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
@@ -23,7 +23,9 @@
   </a>
 </p>
 
-🎥 Analista de Marketplace en <img width="100" height="100" alt="Untitled" src="https://github.com/user-attachments/assets/f521fb5c-90ff-4b40-a0d3-3009b70890e7" /> gracias a mucho estudio 😵 y experiencia
+🎥 Analista de Marketplace en <img width="100" height="100" alt="Untitled" 
+     src="https://github.com/user-attachments/assets/f521fb5c-90ff-4b40-a0d3-3009b70890e7" 
+     style="filter: invert(1);" /> gracias a mucho estudio 😵 y experiencia
 
 💻 Unos cuántos años de experiencia en el proceso de programación con Python
 
