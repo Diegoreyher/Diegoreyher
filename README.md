@@ -175,13 +175,4 @@
        alt="Commits per Month" />
   <br><br>
 
-  <!-- Top Languages Donut -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoreyher&layout=compact&theme=dark" 
-       alt="Top Languages Donut" />
-  <br><br>
-
-  <!-- Pull Request Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Diegoreyher&show_icons=true&theme=dark&count_private=true&hide=issues" 
-       alt="PR Stats" />
-
 </div>
