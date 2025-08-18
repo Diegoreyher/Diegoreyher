@@ -170,9 +170,5 @@
        alt="Activity Graph" />
   <br><br>
 
-  <!-- Total Commits / Stats por mes -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Diegoreyher&show_icons=true&theme=dark&count_private=true&hide=issues,prs,contribs&hide_title=false" 
-       alt="Commits per Month" />
-  <br><br>
 
 </div>
