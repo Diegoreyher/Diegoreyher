@@ -19,7 +19,7 @@
 <br><br>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=4000&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Scientist+👨‍💻;Data+Analyst+📊;Machine+Learning+Enthusiast+🤖;Web+Scraping+Expert+🕸️;Automation+Specialist+⚙️;Business+Intelligence+📈;Python+Developer+🐍;Process+Optimization+🔧;Data+Driven+Decision+Maker+💡;From+MX+🇲🇽" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=4000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=110&lines=Data+Scientist+👨‍💻;Data+Analyst+📊;Machine+Learning+Enthusiast+🤖;Web+Scraping+Expert+🕸️;Automation+Specialist+⚙️;Business+Intelligence+📈;Python+Developer+🐍;Process+Optimization+🔧;Data+Driven+Decision+Maker+💡;From+MX+🇲🇽" alt="Typing SVG" />
   </a>
 </p>
 
