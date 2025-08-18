@@ -137,10 +137,8 @@
 </p>
 
 <h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<h2>GitHub :octocat:</h2>
+<!--- Stats & Trophy -->
 
-<!-- Stats y Trophy para diegoreyher -->
 <div align="center">
 
   <!-- GitHub Streak Stats -->
@@ -149,7 +147,7 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" /> 
   <br><br>
 
-  <!-- Top Languages -->
+  <!-- Top Languages (original barra) -->
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreyher&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   <br><br>
@@ -160,5 +158,30 @@
          src="https://github-profile-trophy.vercel.app/?username=Diegoreyher&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
          alt="TROPHY" />
   </a>
+  <br><br>
+
+  <!-- Top Repos (más estrellas) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Diegoreyher&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=issues,contribs&card_width=500" 
+       alt="Top Repos" />
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diegoreyher&theme=react-dark&area=true&hide_border=false" 
+       alt="Activity Graph" />
+  <br><br>
+
+  <!-- Total Commits / Stats por mes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Diegoreyher&show_icons=true&theme=dark&count_private=true&hide=issues,prs,contribs&hide_title=false" 
+       alt="Commits per Month" />
+  <br><br>
+
+  <!-- Top Languages Donut -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoreyher&layout=compact&theme=dark" 
+       alt="Top Languages Donut" />
+  <br><br>
+
+  <!-- Pull Request Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Diegoreyher&show_icons=true&theme=dark&count_private=true&hide=issues" 
+       alt="PR Stats" />
 
 </div>
