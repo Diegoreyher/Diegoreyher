@@ -167,3 +167,5 @@
     </a>
   </div>
   <!--- trophy (end) -->
+</p>        
+<!--- stats & Trophy (end) -->
