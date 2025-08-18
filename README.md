@@ -22,18 +22,7 @@
   </a>
 </p>
 
-🎥 Analista de Marketplace en  
-
-<table>
-<tr>
-<td align="center" bgcolor="black">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Truper.png" alt="Truper Logo" width="200"/><br>
-  <span style="color:white;">Truper</span>
-</td>
-</tr>
-</table>
-
-gracias a mucho estudio 😵 y experiencia
+🎥 Analista de Marketplace en  ![Truper](https://img.shields.io/badge/Truper-black?style=for-the-badge&logo=truper&logoColor=orange) gracias a mucha dedicación y esfuerzo 🧑🏽‍💻
 
 💻 Unos cuántos años de experiencia en el proceso de programación con Python
 
