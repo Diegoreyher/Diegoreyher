@@ -136,9 +136,6 @@
   
 </p>
 
-<br>
-<!-------------------------->
-<div id="proyectos">
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -170,6 +167,3 @@
     </a>
   </div>
   <!--- trophy (end) -->
-</p>        
-<!--- stats & Trophy (end) -->
-
