@@ -135,19 +135,19 @@
   
 </p>
 
-<h2>GitHub :octocat:</h2>
-<!--- Stats & Trophy -->
-
-  <!-- GitHub Streak Stats -->
 <div align="center">
 
+  <!-- GitHub Streak Stats -->
+  <img title="🔥 Get streak stats for your profile" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" />
+
+  <br><br>
+
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15" 
+       alt="GitHub Trophies" />
 
 </div>
-
-</div>
-
   <!-- Top Languages (original barra) -->
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreyher&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
