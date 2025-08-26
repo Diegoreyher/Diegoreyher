@@ -142,29 +142,34 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" />
 
   <br><br>
+<div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15" 
-     alt="GitHub Trophies" />
-
-
-</div>
-  <!-- Top Languages (original barra) -->
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreyher&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  <br><br>
-  </a>
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15" 
+       alt="GitHub Trophies" />
   <br><br>
 
-  <!-- Top Repos (más estrellas) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Diegoreyher&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=issues,contribs&card_width=500" 
-       alt="Top Repos" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" 
+       alt="GitHub Streak" />
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreyher&theme=dark&hide_border=false&langs_count=10&layout=compact" 
+       alt="Top Languages" />
+  <br><br>
+
+  <!-- GitHub Stats (commits, PRs, etc.) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoreyher&show_icons=true&theme=dark&count_private=true&include_all_commits=true" 
+       alt="GitHub Stats" />
   <br><br>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diegoreyher&theme=react-dark&area=true&hide_border=false" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoreyher&theme=react-dark&area=true&hide_border=false" 
        alt="Activity Graph" />
-  <br><br>
+
+</div>
+
 
 
 </div>
