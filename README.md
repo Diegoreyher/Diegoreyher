@@ -141,10 +141,11 @@
 <div align="center">
 
   <!-- GitHub Streak Stats -->
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-       alt="Mark streak" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" /> 
-  <br><br>
+  <img title="🔥 Get streak stats for your profile" 
+       alt="GitHub Streak" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" />
+
+</div>
 
   <!-- Top Languages (original barra) -->
   <img align="center" 
