@@ -145,15 +145,9 @@
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15" 
+  <img src="<img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />" 
        alt="GitHub Trophies" />
   <br><br>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" 
-       alt="GitHub Streak" />
-  <br><br>
-
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreyher&theme=dark&hide_border=false&langs_count=10&layout=compact" 
        alt="Top Languages" />
