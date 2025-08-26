@@ -136,11 +136,9 @@
 </p>
 
 <div align="center">
-
   <!-- GitHub Streak Stats -->
   <img title="🔥 Get streak stats for your profile" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" />
-
   <br><br>
 <div align="center">
   <!-- Top Languages -->
