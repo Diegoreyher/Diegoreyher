@@ -138,12 +138,13 @@
 <h2>GitHub :octocat:</h2>
 <!--- Stats & Trophy -->
 
+  <!-- GitHub Streak Stats -->
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
-  <img title="🔥 Get streak stats for your profile" 
-       alt="GitHub Streak" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=diegoreyher&theme=dark&hide_border=false" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
+
+</div>
 
 </div>
 
