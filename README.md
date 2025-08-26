@@ -144,7 +144,7 @@
   <br><br>
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15" 
+  <img src="[https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=1](https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15)" 
        alt="GitHub Trophies" />
 
 </div>
