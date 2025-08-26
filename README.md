@@ -143,11 +143,6 @@
 
   <br><br>
 <div align="center">
-
-  <!-- GitHub Trophies -->
-  <img src="<img src="https://github-profile-trophy.vercel.app/?username=diegoreyher&theme=dark&no-frame=false&no-bg=false&margin-w=15"  
-       alt="GitHub Trophies" />
-  <br><br>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreyher&theme=dark&hide_border=false&langs_count=10&layout=compact" 
        alt="Top Languages" />
